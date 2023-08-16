@@ -1,2 +1,2 @@
-# MLOps-Machine_Learning_Engineering_for_Production_Specialization
+# MLOps - Machine Learning Engineering for Production Specialization
 DeepLearning.AI Lecture Slides on Courses 3 and 4.
