@@ -62,6 +62,6 @@ This specialization prepares learners for roles such as Machine Learning Enginee
 
 <p style="text-align:center">
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97" target="_blank">
-    <img src="images/CC_DLAI_MLOps.png" alt="Imperial College London - Mathematics for Machine Learning"  />
+    <img src="images/CC_DLAI_MLOps.png" alt="DeepLearning.AI - MLOps"  />
     </a>
 </p>
