@@ -1,4 +1,4 @@
-# [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/) - COMPLETED!
+# [DeepLearning.AI - Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/) - COMPLETED!
 
 The **Machine Learning Engineering for Production (MLOps)** specialization by DeepLearning.AI, led by Andrew Ng and co-instructors from Google, focuses on the practical skills needed to deploy, monitor, and maintain machine learning models in production environments. This specialization combines the foundational concepts of machine learning with modern software engineering practices, enabling learners to build scalable and reliable machine learning systems.
 
