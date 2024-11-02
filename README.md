@@ -1,4 +1,4 @@
-# Machine Learning Engineering for Production (MLOps) Specialization
+# [Machine Learning Engineering for Production (MLOps) Specialization](https://www.deeplearning.ai/) - COMPLETED!
 
 The **Machine Learning Engineering for Production (MLOps)** specialization by DeepLearning.AI, led by Andrew Ng and co-instructors from Google, focuses on the practical skills needed to deploy, monitor, and maintain machine learning models in production environments. This specialization combines the foundational concepts of machine learning with modern software engineering practices, enabling learners to build scalable and reliable machine learning systems.
 
@@ -58,3 +58,10 @@ By completing this specialization, learners will:
 
 This specialization prepares learners for roles such as Machine Learning Engineer or MLOps Engineer by providing hands-on experience with modern tools and frameworks used in production environments. Through this program, learners will be equipped with the skills necessary to manage the full lifecycle of machine learning systems at scale.
 
+## [Specialization Certificate Of Competency:](https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97)
+
+<p style="text-align:center">
+    <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/JT96BFTD2X97" target="_blank">
+    <img src="images/CC_DLAI_MLOps.png" alt="Imperial College London - Mathematics for Machine Learning"  />
+    </a>
+</p>
